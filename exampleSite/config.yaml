@@ -10,7 +10,7 @@ disqusShortname: https-hugo-tania-netlify-app
 
 params:
   # Emoji will show before the blog title on site navbar.
-  titleEmoji: favicon.ico
+  titleEmoji: 
 
   # Logo will show before the blog title on site navbar.
   titleLogo: 
