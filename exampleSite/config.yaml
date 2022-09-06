@@ -1,8 +1,8 @@
-baseurl: "https://example.com"
+baseurl: "https://animecrush.me"
 languageCode: "en-us"
-title: "Hugo Tania"
+title: "Animecrush- Hub of Anime Theories and discussions"
 theme: "hugo-tania"
-paginate: 6
+paginate: 9
 
 disqusShortname: https-hugo-tania-netlify-app
 
@@ -17,8 +17,8 @@ params:
   # Default to true
   enableFootnotes: true
   
-  siteName: "Hugo Tania is Amazing"
-  siteDesc: "Hugo is Absurdly Fast!"
+  siteName: "Animecrush is Amazing"
+  siteDesc: "Animecrush- Hub of Anime Theories and discussions and anime Products and reviews!"
   author: "Hugo Tania"
 
   colorScheme:
