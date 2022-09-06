@@ -4,6 +4,8 @@ title: "Animecrush- Hub of Anime Theories and discussions"
 theme: "hugo-tania"
 paginate: 9
 
+enableRobotsTXT: true
+
 disqusShortname: https-hugo-tania-netlify-app
 
 params:
