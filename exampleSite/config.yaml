@@ -68,9 +68,9 @@ menu:
   footer:
     - name: RSS
       url: "/index.xml"
-      - name: Privacy Policy
+    - name: Privacy Policy
       url: "/index.xml"
-      - name: Disclaimer
+    - name: Disclaimer
       url: "/index.xml"
 
 markup:
