@@ -3,6 +3,7 @@ title: 'Reimann Zeta function'
 date: 2021-09-06T07:16:00.002-07:00
 draft: false
 url: /2021/09/reimann-zeta-function.html
+icon: 📝
 ---
 
  In mathematics,
