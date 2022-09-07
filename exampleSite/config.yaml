@@ -5,7 +5,6 @@ theme: "hugo-tania"
 paginate: 9
 googleAnalytics: "UA-180166302-1"
 
-disableKinds: ["taxonomy"]
 enableRobotsTXT: true
 
 disqusShortname: https-hugo-tania-netlify-app

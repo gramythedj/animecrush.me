@@ -6,7 +6,6 @@ url: /2020/11/naruto-q.html
 tags: 
 - naruto
 - anime
-- Q&A
 ---
 
  Family Tree
