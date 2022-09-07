@@ -15,7 +15,7 @@ params:
   # Logo will show before the blog title on site navbar.
   titleLogo: 
   
-  googleAnalytics = "UA-180166302-1"
+  googleAnalytics: "UA-180166302-1"
 
   # Enable float footnotes.
   # Default to true
