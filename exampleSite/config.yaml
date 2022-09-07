@@ -3,7 +3,9 @@ languageCode: "en-us"
 title: "Animecrush- Hub of Anime "
 theme: "hugo-tania"
 paginate: 9
+googleAnalytics: "UA-180166302-1"
 
+disableKinds: ["taxonomy"]
 enableRobotsTXT: true
 
 disqusShortname: https-hugo-tania-netlify-app
@@ -15,8 +17,6 @@ params:
   # Logo will show before the blog title on site navbar.
   titleLogo: 
   
-  googleAnalytics: "UA-180166302-1"
-
   # Enable float footnotes.
   # Default to true
   enableFootnotes: true

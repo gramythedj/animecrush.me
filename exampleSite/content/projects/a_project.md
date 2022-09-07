@@ -6,4 +6,5 @@ weight: 1
 link: https://github.com/WingLim/hugo-tania
 repo: https://github.com/WingLim/hugo-tania
 icon: 📝
+sitemap_ignore: true
 ---
