@@ -68,13 +68,15 @@ menu:
   header:
     - name: Articles
       url: "/articles/"
+    - name: About-Us
+      url: "/about-us.html"  
   footer:
     - name: RSS
       url: "/index.xml"
     - name: Privacy Policy
       url: "/privacy-policy.html"
     - name: Disclaimer
-      url: "/disclaimer.xml"
+      url: "/disclaimer.html"
 
 markup:
   highlight:
