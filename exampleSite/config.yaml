@@ -72,9 +72,9 @@ menu:
     - name: RSS
       url: "/index.xml"
     - name: Privacy Policy
-      url: "/index.xml"
+      url: "/privacy-policy.html"
     - name: Disclaimer
-      url: "/index.xml"
+      url: "/disclaimer.xml"
 
 markup:
   highlight:
