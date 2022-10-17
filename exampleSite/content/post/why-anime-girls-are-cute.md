@@ -1,6 +1,6 @@
 ---
 title: ' Why are anime characters (Girls) so beautiful?'
-date: 202-09-01T00:16:00.000-07:00
+date: 2022-10-17T20:03:00.010-08:00
 draft: false
 url: /why-anime-girls-are-cute.html
 tags: 
