@@ -1,12 +1,12 @@
 ---
-title: ' Why are anime characters (Girls) so beautiful?'
-date: 2022-10-17T20:03:00.010-08:00
-draft: false
-url: /2022/10/why-anime-girls-are-cute.html
+author: " Animo"
+title: " Why are anime characters (Girls) so beautiful?"
+date: "2022-10-17"
+description: "We will Discuss why anime girls are cute"
 tags: 
 - anime
-- Characters
 ---
+
 
 
 ### Why are anime characters (Girls) so beautiful?
