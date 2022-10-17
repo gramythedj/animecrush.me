@@ -58,11 +58,11 @@ params:
     provider: giscus
 
     giscus:
-      repo: WingLim/hugo-tania
-      id: MDEwOlJlcG9zaXRvcnkzMTYyNjQzMDc=
+      repo: gramythedj/animecrush.me
+      id: R_kgDOH8knzg
       category:
         name: Comments
-        id: DIC_kwDOEtnPc84B_WKP
+        id: DIC_kwDOH8knzs4CSCHy
 
 menu:
   header:
