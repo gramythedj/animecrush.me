@@ -1,10 +1,10 @@
 ---
-title: "Hugo Tania Theme"
-date: 2020-11-26
-description: Make a blog with hugo tania theme!
+title: "Pokedex"
+date: 2022-10-01
+description: Indexing all Pokemon with Next.js!
 weight: 1
-link: https://github.com/WingLim/hugo-tania
-repo: https://github.com/WingLim/hugo-tania
-icon: 📝
+link: https://github.com/
+repo: https://github.com/
+icon: ☯️
 sitemap_ignore: true
 ---

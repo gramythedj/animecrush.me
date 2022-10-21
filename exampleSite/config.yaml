@@ -1,6 +1,6 @@
 baseurl: "https://animecrush.me"
 languageCode: "en-us"
-title: "Animecrush- Hub of Anime "
+title: "Animecrush"
 theme: "hugo-tania"
 paginate: 9
 googleAnalytics: "UA-180166302-1"
