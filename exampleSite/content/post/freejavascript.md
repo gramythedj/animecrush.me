@@ -2,7 +2,7 @@
 title: 'free javascripts testing'
 date: 2022-12-26T06:20:00.001-08:00
 draft: false
-url: /2022/12/freejavascript.html
+url: /MonumentViewer.aspx?ID=16
 tags: 
 - news
 - anime
